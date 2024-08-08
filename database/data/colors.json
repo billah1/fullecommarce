@@ -1,0 +1,26 @@
+{
+    "crimson": {
+        "name": "Crimson",
+        "hex": "#DC143C"
+    },
+    "aqua": {
+        "name": "Aqua",
+        "hex": "#00FFFF"
+    },
+    "coral": {
+        "name": "Coral",
+        "hex": "#FF7F50"
+    },
+    "forest_green": {
+        "name": "Forest Green",
+        "hex": "#228B22"
+    },
+    "indigo": {
+        "name": "Indigo",
+        "hex": "#4B0082"
+    },
+    "sienna": {
+        "name": "Sienna",
+        "hex": "#A0522D"
+    }
+}
